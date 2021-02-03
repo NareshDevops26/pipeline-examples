@@ -1,5 +1,7 @@
 The MIT License
 
+I have already defined latest version of Lincense
+
 Copyright (c) 2015-, CloudBees, Inc., and a number of other of contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
